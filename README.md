@@ -4,4 +4,6 @@ Este informe presenta el cálculo del Valor Actuarial Presente (APV) de varios t
 
 https://otexts.com/fpp2/arima.html
 
+https://www.cepal.org/sites/default/files/courses/files/01_2_arima.pdf
+
 **keywords:** `Actuarial Present Value`.
